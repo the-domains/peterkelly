@@ -1,28 +1,40 @@
-name: PeterKelly
-favicon: null
-layout_spectrum: 0.3561711893416941
-typography_spectrum: 0.9857603157870471
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.7614845905918628
+  brandStrength: 0.1396734709851444
+  rhythmicContrast: 0.4993564502801746
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.13967347098514438
   lightness: 0.4076474297326058
-  saturation: 0.7614845905918628
-  rhythmicContrast: 0.4993564502801746
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: PeterKelly
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.9857603157870471
+layout_spectrum: 0.2110634
