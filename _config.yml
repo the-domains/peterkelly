@@ -14,22 +14,22 @@ collections:
 color:
   saturation: 0.7614845905918628
   brandStrength: 0.1396734709851444
-  rhythmicContrast: 0.4993564502801746
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
   lightness: 0.4076474297326058
-cta:
-  bucket: null
-  version: null
-  domain: null
+  brandColors:
+    - '#D9DADC'
+    - '#494846'
+    - '#B0B3BA'
+    - '#8494A1'
+    - '#833742'
+  rhythmicContrast: 0.4993564502801746
 analytics:
   twitter: null
   google: null
   facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 favicon: null
 name: PeterKelly
 opengraph:
